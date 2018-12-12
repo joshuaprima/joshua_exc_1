@@ -1,2 +1,3 @@
-# joshua_exc_1
-Exercise 1
+# project 1
+# This is a sample README.md file
+# It contains the project1 description.
